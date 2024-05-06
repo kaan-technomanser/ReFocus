@@ -1,6 +1,6 @@
 body {
 	font-family: Arial, sans-serif;
-    background-image: url('Login.png');
+    background-image: url('./Login.png');
     background-repeat: no-repeat;
     background-size:cover;
     min-width: 900px;
